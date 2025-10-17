@@ -7,7 +7,7 @@ Designed to showcase my skills, projects, and experience with a clean, user-focu
 
 ## 🚀 Live Demo
 
-🔗 [View Live Site](#) <!-- Replace with your Netlify or Vercel link -->
+🔗 [https://68f2ae4643b68c0a4dd2a299--jodawaportfolio.netlify.app/](#) <!-- Replace with your Netlify or Vercel link -->
 
 ---
 
