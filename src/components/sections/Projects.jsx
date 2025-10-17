@@ -83,12 +83,7 @@ const Projects = () => {
                   >
                     GitHub
                   </a>
-                  <a
-                    href={project.liveUrl}
-                    className="text-gray-600 hover:text-primary-600 dark:text-gray-300 dark:hover:text-primary-400 transition-colors duration-300 text-sm font-medium"
-                  >
-                    Live Demo
-                  </a>
+                 
                 </div>
               </div>
             </Card>

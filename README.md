@@ -1,16 +1,35 @@
-# React + Vite
+# 🌟 Jane Odawa Achieng — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive **portfolio website** built with **React**, **Tailwind CSS**, and **Vite**.  
+Designed to showcase my skills, projects, and experience with a clean, user-focused interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+🔗 [View Live Site](#) <!-- Replace with your Netlify or Vercel link -->
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React 18, JSX  
+- **Styling:** Tailwind CSS  
+- **Build Tool:** Vite  
+- **Routing:** React Router DOM  
+- **Deployment:** Netlify  
+
+---
+
+## 🏃‍♀️ Getting Started
+
+### Prerequisites
+- Node.js (v18 or higher recommended)
+- npm or yarn
+
+### Installation
+```bash
+git clone [your-repository-url]
+cd jane-odawa-portfolio
+npm install
+npm run dev
