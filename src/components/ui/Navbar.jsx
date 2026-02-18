@@ -20,7 +20,7 @@ const Navbar = () => {
           {/* Navigation Links */}
           <div className="hidden md:block">
             <div className="ml-10 flex items-baseline space-x-4">
-              {['Home', 'About', 'Skills', 'Projects', 'Experience', 'Contact'].map((item) => (
+              {['Home', 'About', 'Skills', 'Projects', 'Contact'].map((item) => (
                 <a
                   key={item}
                   href={`#${item.toLowerCase()}`}

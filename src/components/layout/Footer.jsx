@@ -52,7 +52,7 @@ const Footer = () => {
               Quick Links
             </h3>
             <div className="flex flex-col space-y-2">
-              {['Home', 'Projects', 'Experience', 'Contact'].map((item) => (
+              {['Home', 'Projects', 'Contact'].map((item) => (
                 <a
                   key={item}
                   href={`#${item.toLowerCase()}`}

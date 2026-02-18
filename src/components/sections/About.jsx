@@ -2,7 +2,7 @@
 import React from "react";
 import { portfolioData } from "../../data/portfolioData";
 import Button from "../ui/Button"; // adjust path if needed
-import profileImg from "../../assets/me2.jpg"; // replace with your image
+import profileImg from "../../assets/me.png"; // replace with your image
 
 const About = () => {
   return (
@@ -15,7 +15,7 @@ const About = () => {
           <div className="w-24 h-1 bg-gradient-to-r from-primary-500 to-accent-500 mx-auto"></div>
         </div>
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
           {/* About Text */}
           <div className="space-y-6">
             <p className="text-lg text-gray-600 dark:text-gray-300 leading-relaxed">

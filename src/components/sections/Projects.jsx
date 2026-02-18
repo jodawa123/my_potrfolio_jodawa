@@ -46,8 +46,8 @@ const Projects = () => {
             <Card key={project.id} hover className="overflow-hidden group">
               {/* Project Image */}
               <div className="h-48 bg-gradient-to-br from-primary-400 to-accent-500 relative overflow-hidden">
-                <div className="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-20 transition-all duration-300 flex items-center justify-center">
-                  <div className="opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex space-x-4">
+                <div className="absolute inset-0 bg-black transition-all duration-300 flex items-center justify-center">
+                  <div className="transition-opacity duration-300 flex space-x-4">
                     <img src= {project.image} alt="" />
                     
                   </div>
